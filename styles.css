@@ -1,0 +1,62 @@
+h1{
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin-left: 570px;
+}
+
+header{
+    height: 50px;
+    background-color:dimgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+p{
+    background-color:gray;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    
+
+}
+ img{
+     width: 500px;
+     height: 300px;
+ }
+
+ ul{
+     font-weight: bold;
+     text-decoration: underline;
+     text-shadow: 0 0 15px black;
+ }
+
+ .wrld{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin-left: 500px;
+ }
+
+ .speed3{
+     margin-top: 20px;
+     margin-left: 300px;
+ }
+
+ h2{
+     margin-left: 50px;
+ }
+
+ h2:hover{
+     cursor: pointer;
+ }
+
+ ul:hover{
+     cursor: pointer;
+ }
+ 
+ h3{
+     font-size: 30px;
+     margin-left: 80px;
+ }
